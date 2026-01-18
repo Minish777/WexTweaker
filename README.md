@@ -80,7 +80,7 @@
        shutil.rmtree('dist')
    
    PyInstaller.__main__.run([
-       'wextweaks_gaming.py',
+       'WexOptimizer.py',
        '--onefile',            # Один EXE файл
        '--console',            # Консольное приложение
        '--name=WexTweaks',     # Имя выходного файла
@@ -141,7 +141,7 @@ pyinstaller --onefile --console ^
             --hidden-import=psutil ^
             --hidden-import=colorama ^
             --uac-admin ^
-            wextweaks_gaming.py
+            WexOptimizer.py
 
 echo.
 echo Сборка завершена!
