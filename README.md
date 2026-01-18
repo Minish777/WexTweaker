@@ -1,4 +1,4 @@
-# WexTweaks Gamer Edition 🎮
+# WexTweaks - отличиный оптимизатор вашей системы 🎮
 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-green?style=for-the-badge&logo=python)](https://python.org)
